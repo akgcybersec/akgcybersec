@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Offensive Security Engineer and Open-Source Developer with a deep passion for cybersecurity, automation, and building tools that enhance security assessments and penetration testing. My expertise lies in Python, Flask, Node.js, and Cloud technologies, which I leverage to develop security-focused applications and AI-driven solutions. I strongly believe in open-source collaboration and continuously work on projects that assist security professionals in identifying vulnerabilities, automating assessments, and streamlining the pentesting process.<br><br>Beyond development, I enjoy researching security automation, cloud security, and web application vulnerabilities. I'm always open to collaborating on open-source security tools, contributing to projects that push the boundaries of AI-driven security automation, and discussing ways to improve modern pentesting techniques. If you're interested in building innovative security solutions, experimenting with AI in cybersecurity, or simply exchanging ideas, feel free to connect with me. Let’s work together to make security assessments more advanced, accessible, and efficient!
+I'm an Offensive Security Engineer and a developer with a deep passion for cybersecurity, automation, and building tools that enhance security assessments and penetration testing. My expertise lies in Python, Flask, Node.js, and Cloud technologies, which I leverage to develop security-focused applications and AI-driven solutions. I strongly believe in open-source collaboration and continuously work on projects that assist security professionals in identifying vulnerabilities, automating assessments, and streamlining the pentesting process.<br><br>Beyond development, I enjoy researching security automation, cloud security, and web application vulnerabilities. I'm always open to collaborating on open-source security tools, contributing to projects that push the boundaries of AI-driven security automation, and discussing ways to improve modern pentesting techniques. If you're interested in building innovative security solutions, experimenting with AI in cybersecurity, or simply exchanging ideas, feel free to connect with me. Let’s work together to make security assessments more advanced, accessible, and efficient!
 
 
 ## 🌐 Socials:
@@ -12,17 +12,5 @@ I'm an Offensive Security Engineer and Open-Source Developer with a deep passion
 ![](https://nirzak-streak-stats.vercel.app/?user=akgcybersec&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akgcybersec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akgcybersec&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=akgcybersec&icon=0&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aswinkgopax) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/aswinkgopan) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
